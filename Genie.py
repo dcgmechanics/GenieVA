@@ -283,7 +283,7 @@ while True:
 		elif ("Screen" in d) or ("screen" in d) or ("Keyboard" in d) or ("keyboard" in d):
 			pyttsx3.speak("On Screen keyboard is Launching...")
 			os.system("osk")
-		elif (("System" in d) or ("syetem" in d)) and (("Information" in d) or ("information" in d) or ("Info" in d) or ("info" in d)):
+		elif (("System" in d) or ("system" in d)) and (("Information" in d) or ("information" in d) or ("Info" in d) or ("info" in d)):
 			pyttsx3.speak("System Information is Launching...")
 			os.system("msinfo32")
 		elif (("Voulme" in d) or ("volume" in d)) and (("control" in d) or ("Control" in d)):
