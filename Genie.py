@@ -151,7 +151,7 @@ while True:
 		if (("Windows" in b) or ("windows" in b) or ("window" in b)) and (("Explorer" in b) or ("explorer" in b)):
 			pyttsx3.speak("Windows Explorer is Launching...")
 			os.system("explorer")
-		elif ("Explorer" in b) or ("explorer" in b) or ("C" in b) or ("c" in b) or ("Drive" in b) or ("drive" in b):
+		elif ("Explorer" in b) or ("explorer" in b) or ("Drive" in b) or ("drive" in b):
 			pyttsx3.speak("C Drive is Exploring...")
 			os.system("c:")
 		elif ("Registory" in b) or ("registory" in b) or ("reg" in b) or ("Editor" in b) or ("editor" in b) or ("edit" in b):
