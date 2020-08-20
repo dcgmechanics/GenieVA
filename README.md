@@ -37,7 +37,12 @@ Contact Details:
 ----------------
 
 FB:- facebook.com/dcgmechanics
+
 Insta:- instagram.com/dcgmechanics
+
 Twitter:- twitter.com/dcgmechanics
+
 Telegram:- t.me/dcgmechanics
+
 Discord:- dcgmechanics#0422
+
