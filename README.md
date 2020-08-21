@@ -1,11 +1,13 @@
-Genie Windows Assistant 0.1
+![Image of Genie Windows Assistant](https://i.postimg.cc/FzrZ4yfF/GE.png)
+
+#Genie Windows Assistant
 -------------------------
 
 This is a Python Coded Program Which Takes Input From User as String
 and takes Action as per the Command. This is the First Version of Python
-Program Which is Coded by me, "Devashish Gupta" aka #dcgmechanics. 
+Program Which is Coded by me, "Devashish Gupta" aka **#dcgmechanics.** 
 
-Requierments:
+##Requierments:
 -------------
 
 For the Better Working you Need to Install Latest Version of Anaconda
@@ -16,7 +18,7 @@ Some Features Only Works in Pro Version of Windows OS.
 This Program is Highly Compatible with Windows 10 Pro Operating System.
 
 
-Features:
+##Features:
 ---------
 1. Control Panel Program Shortcuts
 2. Commonly used Windows Tools
@@ -34,7 +36,7 @@ Hope You Enjoy This Stuff.
 Feel Free To Contact Me For any Queries
 or Feedback Regarding This Program.
 
-Contact Details:
+##Contact Details:
 ----------------
 
 FB:- facebook.com/dcgmechanics
