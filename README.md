@@ -1,4 +1,4 @@
-Genie Voice Assistant 0.1
+Genie Windows Assistant 0.1
 -------------------------
 
 This is a Python Coded Program Which Takes Input From User as String
@@ -8,10 +8,10 @@ Program Which is Coded by me, "Devashish Gupta" aka #dcgmechanics.
 Requierments:
 -------------
 
-For the Better Working you Need to Install Latest Version of Python
+For the Better Working you Need to Install Latest Version of Anaconda
 in Your System or PC. also You need to Add The Paths From "ENV.txt"
 File to The Enviornment Variables so that Third Party Programs 
-Works Without Any Problem. 
+Works Without Any Problem. I've Only Used "OS" & "Pyttsx3" Modules.
 Some Features Only Works in Pro Version of Windows OS.
 This Program is Highly Compatible with Windows 10 Pro Operating System.
 
@@ -25,7 +25,8 @@ Features:
 5. System File Checker Utility
 6. Applications (if installed)
 
-This one Took me Approx 10 Hours to Write From Sacrtch
+This one Took me Approx 10 Hours to Write From Sacrtch + 
+Searching Commands + Testing Them on My PC + Debugging
 & This is still in beta version.
 
 Hope You Enjoy This Stuff. 
