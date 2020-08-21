@@ -1,8 +1,8 @@
 import os
 import pyttsx3
 
-print("Welcome To Genie Voice Assistant Version 0.1\n")
-pyttsx3.speak("Welcome To Genie Voice Assistant Version 0.1")
+print("Welcome To Genie Windows Assistant Version 0.1\n")
+pyttsx3.speak("Welcome To Genie Windows Assistant Version 0.1")
 
 print("Please Before Using This Program Open 'Read Me' Text File for Better Understanding Of Features of This Program.\n")
 pyttsx3.speak("Please Before Using This Program Open Read Me Text File for Better Understanding Of Features of This Program.")
@@ -404,8 +404,8 @@ while True:
 			pyttsx3.speak("You Have Done Wrong Choice")
 
 	elif ("quit" in x) or ("Quit" in x) or ("close" in x) or ("Close" in x) or ("Exit" in x) or ("exit" in x) or ("no" in x) or ("bye" in x):
-		print("Thank You For Using Genie Voice Assistant Version 0.1")
-		pyttsx3.speak("Thank You For Using Genie Voice Assistant Version 0.1")
+		print("Thank You For Using Genie Windows Assistant Version 0.1")
+		pyttsx3.speak("Thank You For Using Genie Windows Assistant Version 0.1")
 		break;
 	
 	else:
@@ -414,7 +414,7 @@ while True:
 
 
 # Coder Note: Whatever i learned till today i used all of them in this program. The More I Learn Python Langauge The More Features I'll Implement. Till Then Enjoy ;)
-# This one Took me Approx 10 Hours to Write From Sacrtch & This is still in beta version.
+# This one Took me Approx 10 Hours to Write From Sacrtch + Finding Commands + Testing Them on My PC + Debbuging & This is still in beta version.
 # Regards: #dcgmechanics
 #Telegram:- t.me/dcgmechanics
 #Discord:- dcgmechanics#0422
